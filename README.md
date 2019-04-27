@@ -1,0 +1,2 @@
+# ArduinoAlarmClock
+End goal = make alarm clock w/changable date and time on LCD and randomly chosen song clips as the alarm. The code uses the LiquidCrystal and Wire libraries included with Version 1.8.9 of the Arduino software and the DS3231 library for the DS3231 clock module from http://www.rinkydinkelectronics.com/library.php?id=73, which is provided under the Creative Commons license found at http://creativecommons.org/licenses/by-nc-sa/3.0/.
